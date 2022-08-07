@@ -100,3 +100,29 @@ body {
   margin-right: 18px;
   border: 0;
 }
+
+/*steps section*/
+.steps_section {
+  margin-top: 765px;
+}
+.steps_section_h2 {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 53px;
+  color: #F2785C;
+  text-align: center;
+}
+.steps_icon {
+  display: flex;
+  justify-content: space-between;
+}
+.steps_icon {
+  text-align: center;
+  align-items: center;
+}
+.steps_p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  color: #0D606F;
+}
